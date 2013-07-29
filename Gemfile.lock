@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    daemons (1.1.9)
+    eventmachine (1.0.3)
+    ffi (1.9.0)
+    pi_piper (1.3.1)
+      ffi
+    robustserver (0.0.3)
+    ruby-mpd (0.2.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  daemons
+  eventmachine
+  pi_piper
+  robustserver
+  ruby-mpd
