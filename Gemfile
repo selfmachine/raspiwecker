@@ -6,3 +6,5 @@ gem "daemons"
 gem "eventmachine"
 gem "pi_piper"
 gem "ruby-mpd"
+gem "librmpd"
+gem 'activesupport'
